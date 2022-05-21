@@ -11,3 +11,12 @@ To install it:
 - Paste the code into the "URL" space
 - Click "save"
 - Click the bookmark when in a webpage (yes, any webpage, including GeoFS) to run it.
+
+To use it (since some people apparently don't know how to copy and paste):
+
+- Copy any code that you want to run
+- Click the icon that appears in the bottom right of your screen to open the console
+- Click the bar at the bottom
+- Right-click and select "paste" to put the code in the box
+- Click "execute"
+- Click the icon in the bottom right again to close the console.
